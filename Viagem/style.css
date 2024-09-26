@@ -41,20 +41,25 @@ footer{
   font-size: 90px;
   text-align: center;
 }
+
 h1{
     padding-top: 20px;
 }
 .divisao{
-    background-color: #F4F3F3;
-    width: 100px;
-    border-radius: 8px;
-    margin: 10px;
+    background-color: white;
+    width: 410px;
+    border-radius: 15px;
+    border: solid 5px;
+    margin-left: 65px;
+    font-size: 22px;
+    text-align: center;
 }
 .pacote{
     display: flex;
     justify-content: center;
 }
-h2{border: 10px;
+h2{
+    border: 10px;
     text-align: center;
     margin-top: 100px;
     margin-bottom: 100px;
@@ -62,5 +67,6 @@ h2{border: 10px;
     color: #1D0F6E;
 }
 .divisao img{
-    width: 10px;
+    width: 410px;
 }
+
