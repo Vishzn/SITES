@@ -1,4 +1,5 @@
 *{
+    text-decoration: none;
     margin: 0;
     padding: 0;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif0;
@@ -6,11 +7,16 @@
 header{
     background-color: #ECA457;
     display: flex;
-
 }
 .container img{
     height: 200px;
     padding-left: 70px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 70px;
 }
 footer{
     background-color: #ECA457;
@@ -20,4 +26,39 @@ footer{
     padding-left: 680px;
     height: 200px;
     padding-top: 75px;
+}
+.meio{
+    display: flex;
+}
+.meio1{
+    display: flex;
+}
+.chef{
+    display: flex;
+}
+.chef img{
+    height: 200px;
+}
+hr{
+    background-color: #ECA457;
+    height: 5px;
+}
+.conteudo{
+    display: flex;
+}
+.conteudo1{
+    display: flex;
+}
+a{
+    color: white;
+}
+.fundo{
+    background-image: url(img/fundo.png);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cont{
+    padding-top: 50px;
+    font-size: 30px;
 }
