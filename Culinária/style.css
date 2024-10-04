@@ -62,3 +62,21 @@ a{
     padding-top: 50px;
     font-size: 30px;
 }
+.meio{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.meio1{
+    display: flex;
+    justify-content: center;
+}
+.comidas{
+    text-align: center;
+    padding-top: 60px;
+}
+.comidas h2{
+    margin-bottom: 30px;
+    font-size: 96px;
+    color: #ECA457;
+}
